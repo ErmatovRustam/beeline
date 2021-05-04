@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+display: inline ;
+margin: 10px 10px}

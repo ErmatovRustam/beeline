@@ -1,0 +1,23 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button{
+    background: linear-gradient(
+51.04deg
+,#f90 1.52%,#ffcd00 97.06%);
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 144%;
+    border: none;
+    padding: 10px 24px;
+}
+
+.text-img{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
