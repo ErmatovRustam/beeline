@@ -1,0 +1,38 @@
+section{
+    width: 75%;
+    margin: auto;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.gifts{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2px;
+    margin: 2px;
+}
+
+.title{
+    width: 180px;
+    display: inline;
+    padding: 2px;
+    margin: 2px;
+}
+
+.icon{
+    display: block;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    margin: 2px;
+}
+
+/* div{
+    display: inline;
+} */

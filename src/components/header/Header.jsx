@@ -34,8 +34,9 @@ import './Header.css'
             {/* 2 div with text and image */}
             <div className = 'textImg'>
                 <div className="text-promo">
-                    <h2>Online Cinema IVI</h2>
-                    <p>More than 100 000 films and episodes for free in up to 5 devices</p>
+                    <h2>Онлайн-кинотеатр IVI</h2>
+                    <p>Более 100 000 фильмов и сериалов 
+с бесплатным трафиком на 5-ти устройствах</p>
                     <button id = 'ivi'>Бесплатно на 14 дней</button>
                     <a href="https://beeline.kg">Как подключить?</a>
                 </div>

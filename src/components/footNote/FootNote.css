@@ -1,0 +1,15 @@
+#footNote{
+    width: 70%;
+    margin: auto;
+}
+#ul{
+    display: inline;
+    float: left;
+    list-style: square;
+    align-items: center;
+}
+#li{
+    list-style: square;
+    color: white;
+    font-size: 14px;
+}

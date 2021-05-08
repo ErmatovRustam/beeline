@@ -1,0 +1,38 @@
+main{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+}
+img{
+    width: 260px;
+    height: 330px;
+    display: inline;
+    margin: 10px;
+
+}
+
+
+article{
+    width: 400px;
+    display: inline;
+    margin: 10px;
+}
+
+button{
+    margin: 5px;
+}
+
+#btn-ivi{
+    width: 35%;
+    display: block;
+    height: 40px;
+    width: 250px;
+    background-color: rgb(211, 28, 28);
+    align-items: center;
+    margin: 20px auto;
+    padding-top: 15px;
+    border-radius: 10px;
+    clear: left ;
+}

@@ -1,6 +1,7 @@
 #head{
-    background: linear-gradient(143.04deg, #FF0F52 -6.84%, rgba(26, 20, 59, 0) 68.79%);
+    background: linear-gradient(143.04deg, #FF0F52 -6.84%, rgba(28, 20, 59) 25.79%);
 }
+
 #header{
     display: flex;
     justify-content: space-evenly;
@@ -65,8 +66,25 @@ button{
 }
 
 .text-promo{
-    width: 35%;
-    
+font-family: Fira Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+width: 450px;
+height: 52px;
+}
+
+h3{
+    font-family: Fira Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
 }
 
 .image-promo{
