@@ -1,7 +1,11 @@
 .App {
   text-align: center;
-  /* Rectangle 2440 */
+  background:rgba(26, 20, 59, 1)
+;
+  
+  color: white;
+}
 
-
-
+.promo{
+  height: 20%
 }

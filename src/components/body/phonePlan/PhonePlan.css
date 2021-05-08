@@ -1,0 +1,19 @@
+.phonePlan{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#title{
+    width: 30%;
+    margin: auto ;
+}
+
+.posts{
+    width: 800px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+flex-flow: row wrap;
+justify-content: center;
+}
